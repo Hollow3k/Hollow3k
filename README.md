@@ -68,7 +68,7 @@ Git · GitHub
 [Portfolio → angad.social](https://www.angad.social)
 
 <p align="center">
-  <img src="assets/summit-cloud-sea.gif" alt="Summit Above Clouds - animated ASCII art" width="720" />
+  <img src="https://github.com/user-attachments/assets/04c51648-b1ec-465b-bac9-3ab52a4fdde3" alt="Summit Above Clouds - animated ASCII art" width="720" />
 </p>
 
 <details>
